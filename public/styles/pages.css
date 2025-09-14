@@ -1,0 +1,160 @@
+.ft{
+    width: 1300px;
+    height:300px;
+    background-color: white;
+    display: flex;
+}
+.ft1{
+    width: 400px;
+    height:300px;
+    background-color:white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.ft1:hover{
+    /* transform: translateY(-20px); */
+    color:  rgb(162, 107, 213);
+}
+.ft2{
+    display: flex;
+    margin-top: 50px;
+}
+.ft3{
+    color: gray;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.ft4{
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    font-size: 20px;
+    margin-right: 50px;
+
+}
+.ft5{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.ft6{
+    width:400px;
+    height: 300px;
+    background-color: white;
+    margin-right: 50px;
+    text-align: center;
+    
+}
+.ft7{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    margin-left: 100px;
+    color: gray;
+    
+}
+.ft7:hover{
+    color: black;
+}
+.ft8{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+}
+.ft9{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 25px;
+
+}
+.bft{
+    color: grey;
+    font-size: 20px;
+}
+.bft:hover{
+    color: black;
+}
+.bty1{
+    width:1300px;
+    background-color:#e2e8f0;
+       
+       display: grid; 
+       grid-template-columns: repeat(2, 1fr); 
+       
+
+    margin-bottom: 20px;
+    
+}
+.but12{
+    width: 550px;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+  
+}
+.but12:hover{
+    transform: translateY(-20px);
+    color: rgb(162, 107, 213);
+
+}
+.ht{
+    background-color:#e2e8f0 ;
+    margin-left: 50px;
+    margin-right:700px;
+    padding-top: 190px;
+
+}
+.bt{
+    background-color: #e2e8f0;
+    width: 1300px;
+
+}
+.fs1{
+    width:1300px;
+    background-color:#e2e8f0 ;
+       height: 1500px;
+       display: grid; 
+       grid-template-columns: repeat(3, 1fr); 
+       
+   
+    
+}
+.fs:hover{
+    transform: translateY(-20px);
+    color:  rgb(162, 107, 213);
+}
+.fs{
+    width: 320px;
+    height:400px;
+    background-color: white;
+    margin-left: 50px;
+   margin-right: 50px;
+    
+    border: none;
+    border-radius: 20px;
+
+   
+    
+}
+.fst{
+    width: 1300px;
+    height: 1500px;
+    background-color:#e2e8f0 ;
+}
+.imf{
+    width: 320px;
+    height: 200px;
+    border: none;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+
+}
+.pp{
+    color: gray;
+    margin-left: 50px;
+}
